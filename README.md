@@ -1,6 +1,6 @@
-# ANLP Project - Fine-Grained Emotion Classification
+# Fine-Grained Emotion Classification
 
-In this project, we compare different methods presented in our paper *Addressing Class Imbalance in Fine-Grained Emotion Classification: A Comparative Study*, aimed at improving a BERT-based model's performance on fine-grained emotion classification tasks.
+Here, we compare different methods presented in our paper *Addressing Class Imbalance in Fine-Grained Emotion Classification: A Comparative Study*, aimed at improving a BERT-based model's performance on fine-grained emotion classification tasks.
 
 ## 🏁 Getting started
 
